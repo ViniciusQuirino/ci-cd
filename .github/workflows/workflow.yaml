@@ -1,3 +1,4 @@
+# em desenvolvimento e quando for solicitado um pull request
 name: WorkFlow Main
 on: pull_request
 
